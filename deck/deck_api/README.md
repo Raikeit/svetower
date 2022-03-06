@@ -1,5 +1,5 @@
 # Get Started
-## For Linux
+## Create Python Env. (For Linux)
 
     $ cd deck/deck_api
     $ python3 -m venv .venv
