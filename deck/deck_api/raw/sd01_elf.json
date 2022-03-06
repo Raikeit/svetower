@@ -1,0 +1,370 @@
+[
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/03/01190638/SD01-001_R-2.png",
+        "classes": [
+            "Elf"
+        ],
+        "Name": "フェアリープリンセス・アリア",
+        "cost": 6,
+        "attack": 5,
+        "health": 5,
+        "description": "【守護】",
+        "flavorText": "",
+        "keywords": [
+            "守護"
+        ],
+        "cardCode": "01190638",
+        "type": "Follower",
+        "subtypes": [
+            "妖精", "プリンセス"
+        ],
+        "evolve": "false",
+        "token": "false",
+        "rarity": "LG"
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/02/01135347/SD01-002_R.png",
+        "classes": [
+            "Elf"
+        ],
+        "Name": "ティターニアの妖精郷",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "01135347",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "false",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/02/01135350/SD01-003_R.png",
+        "classes": [
+            "Elf"
+        ],
+        "Name": "ローズガーデンキーパー",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "01135350",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "false",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/02/01135356/SD01-005_R.png",
+        "classes": [
+            "Elf"
+        ],
+        "Name": "ワルツフェアリー",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "01135356",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "false",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/02/01135358/SD01-006_R.png",
+        "classes": [
+            "Elf"
+        ],
+        "Name": "フェアリーキャスター",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "01135358",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "false",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/02/01135401/SD01-007_R.png",
+        "classes": [
+            "Elf"
+        ],
+        "Name": "メタルエルフメイジ",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "01135401",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "false",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/02/01135404/SD01-008_R.png",
+        "classes": [
+            "Elf"
+        ],
+        "Name": "大狼",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "false",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/02/01135406/SD01-009_R.png",
+        "classes": [
+            "Elf"
+        ],
+        "Name": "トレント",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "false",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/02/01135412/SD01-011_R.png",
+        "classes": [
+            "Elf"
+        ],
+        "Name": "ウォーターフェアリー",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "false",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/02/01135417/SD01-013_R.png",
+        "classes": [
+            "Elf"
+        ],
+        "Name": "放浪するエルフ",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "false",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/03/01190646/SD01-014_R-3.png",
+        "classes": [
+            "Elf"
+        ],
+        "Name": "フェアリーサークル",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "false",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/03/01190650/SD01-015_R-3.png",
+        "classes": [
+            "Elf"
+        ],
+        "Name": "森の聖域",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "false",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/02/01135425/SD01-016_R.png",
+        "classes": [
+            "Elf"
+        ],
+        "Name": "森荒らしへの報い",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "false",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/03/01190642/SD01-004_R-3.png",
+        "classes": [
+            "Elf"
+        ],
+        "Name": "ローズガーデンキーパー",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "true",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/02/01135409/SD01-010_R.png",
+        "classes": [
+            "Elf"
+        ],
+        "Name": "トレント",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "true",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/02/01135415/SD01-012_R.png",
+        "classes": [
+            "Elf"
+        ],
+        "Name": "ウォーターフェアリー",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "true",
+        "token": "false",
+        "rarity": ""
+    }
+]

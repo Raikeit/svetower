@@ -1,0 +1,94 @@
+[
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/03/01190655/SD01-017_R-3.png",
+        "classes": [
+            "Neutral"
+        ],
+        "Name": "ゴブリン",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "false",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/02/01135433/SD01-019_R.png",
+        "classes": [
+            "Neutral"
+        ],
+        "Name": "エンジェルスナイプ",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "false",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/02/01135435/SD01-020_R.png",
+        "classes": [
+            "Neutral"
+        ],
+        "Name": "エンジェルバレッジ",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "false",
+        "token": "false",
+        "rarity": ""
+    },
+    {
+        "cardPath": "https://shadowverse-evolve.com/wordpress/wp-content/uploads/2022/02/01135430/SD01-018_R.png",
+        "classes": [
+            "Neutral"
+        ],
+        "Name": "ゴブリン",
+        "cost": 0,
+        "attack": 0,
+        "health": 0,
+        "description": "",
+        "flavorText": "",
+        "keywords": [
+            ""
+        ],
+        "cardCode": "",
+        "type": "",
+        "subtypes": [
+            "", ""
+        ],
+        "evolve": "true",
+        "token": "false",
+        "rarity": ""
+    }
+]
