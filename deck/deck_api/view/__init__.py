@@ -5,7 +5,7 @@ def create_contacts():
     blueprint = Blueprint("contacts_api", __name__)
     contacts_api = Api(
         blueprint,
-        title='AIMUS-ML API',
+        title='SVE TOWER DECK API',
         version='0.1',
         description=''
     )
